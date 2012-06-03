@@ -1,0 +1,95 @@
+.relative	{           /*新着画像とﾒｯｾｰｼﾞﾎﾞｰﾄﾞのテーブル*/
+	position: relative;
+	margin-top: -50px;
+	margin-right: 15px;
+}
+.relative-2	{           /*pickup のテーブル*/
+	z-index: 1;
+	position: relative;
+	margin-top: 0px;
+	padding-right: 0px;
+}
+
+.relative-3	{           /*参加申し込みテーブル*/   
+	z-index: 1;
+	position: relative;
+	margin-top: 0px;
+	padding-right: 0px;
+}
+
+.relative-4	{           /*参加申し込みテーブル内*/
+	position: relative;
+	margin-top: -30px;
+	padding-right: 0px;
+}
+
+.relative-5	{           /*twitter変数*/
+	position: relative;
+	margin-top: -80px;
+	padding-right: 0px;
+}
+
+.relative-6	{           /*時刻表はこちら*/  
+	position: relative;
+	padding-top: 0px;
+	padding-left: 0px;
+}
+
+.relative-7	{           /*えきから時刻表*/  
+	position: relative;
+	margin-top: -60px;
+	padding-left: 410px;
+}
+
+.relative-8	{           /*タクシーとかのテーブル*/  
+	z-index: 1;
+	position: relative;
+	margin-top: -180px;
+	padding-left: 20px;
+}
+
+.relative-9	{           /*map*/  
+	position: relative;
+	margin-top: 0px;
+	padding-left: 0px;
+}
+
+.relative-10	{           /*お問い合わせ*/   
+	position: relative;
+	padding-top: 0px;
+	padding-left: 25px;
+	_padding-left: 30px;
+}
+.relative-11	{           /*フリマ応募説明*/   
+	position: relative;
+	margin-top: 25px;
+
+}
+.relative-12	{           /*アクセスカウンタ*/   
+	position: relative;
+	margin-top: 20px;
+	padding-left: 60px;
+}
+
+a.thumbnail {
+	display: block;
+	float: left;
+	margin: 0.3em 0px 0.3em -50;
+	margin-top: -10px;
+}
+a.thumbnail img{
+	position: absolute;
+}
+a.thumbnail,
+a.thumbnail img{
+	width: 144px;
+	height: 104px;
+}
+a.thumbnail:hover {
+	border: none;
+	cursor: default;
+}
+a.thumbnail:hover img {
+	width: 288;
+	height: 200;
+}

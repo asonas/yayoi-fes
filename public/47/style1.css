@@ -1,0 +1,175 @@
+.relative	{           /*新着画像とﾒｯｾｰｼﾞﾎﾞｰﾄﾞのテーブル*/
+	position: relative;
+	margin-top: -180px;
+	margin-right: 0px;
+}
+.relative-2	{           /*pickup のテーブル*/
+	z-index: 1;
+	position: relative;
+	margin-top: -370px;
+	padding-right: 0px;
+}
+
+.relative-3	{           /*参加申し込みテーブル*/   
+	z-index: 1;
+	position: relative;
+	margin-top: 0px;
+	padding-right: 0px;
+}
+
+.relative-4	{           /*参加申し込みテーブル内*/
+	position: relative;
+	margin-top: -30px;
+	padding-right: 0px;
+}
+
+.relative-5	{           /*twitter変数*/
+	position: relative;
+	margin-top: -150px;
+	padding-right: 0px;
+}
+
+.relative-6	{           /*時刻表はこちら*/  
+	position: relative;
+	padding-top: 0px;
+	padding-left: 0px;
+}
+
+.relative-7	{           /*えきから時刻表*/  
+	position: relative;
+	margin-top: -60px;
+	padding-left: 410px;
+}
+
+.relative-8	{           /*タクシーとかのテーブル*/  
+	z-index: 1;
+	position: relative;
+	margin-top: -180px;
+	padding-left: 20px;
+}
+
+.relative-9	{           /*map*/  
+	position: relative;
+	margin-top: 0px;
+	padding-left: 0px;
+}
+
+.relative-10	{           /*お問い合わせ*/   
+	position: relative;
+	padding-top: 0px;
+	padding-left: 25px;
+	_padding-left: 30px;
+}
+.relative-11	{           /*フリマ応募説明*/   
+	position: relative;
+	margin-top: 25px;
+
+}
+.relative-12	{           /*アクセスカウンタ*/   
+	position: relative;
+	margin-top: 20px;
+	padding-left: 60px;
+}
+
+
+a.thumbnail {
+	margin: 0.3em 10px 0.3em 0;
+
+}
+a.thumbnail img{
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	_margin-top: 0px;
+	_margin-left: -38px;
+}
+a.thumbnail,
+a.thumbnail img{
+	width: 130px;
+	height: 100px;
+}
+a.thumbnail:hover {
+	border: none;
+	cursor: default;
+}
+a.thumbnail:hover img {
+	width: auto;
+	height: auto;
+}
+
+
+
+a.thumbnail2 {
+	margin: 0.3em 10px 0.3em 0;
+
+}
+a.thumbnail2 img{
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	_margin-top: 0px;
+	_margin-left: -38px;
+}
+a.thumbnail2,
+a.thumbnail2 img{
+	width: 260px;
+	height: 100px;
+}
+a.thumbnail2:hover {
+	border: none;
+	cursor: default;
+}
+a.thumbnail2:hover img {
+	width: auto;
+	height: auto;
+}
+
+a.thumbnail3 {
+	margin: 0.3em 10px 0.3em 0;
+
+}
+a.thumbnail3 img{
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	_margin-top: 0px;
+	_margin-left: -38px;
+}
+a.thumbnail3,
+a.thumbnail3 img{
+	width: 260px;
+	height: 200px;
+}
+a.thumbnail3:hover {
+	border: none;
+	cursor: default;
+}
+a.thumbnail3:hover img {
+	width: auto;
+	height: auto;
+}
+
+a.thumbnail4 {
+	margin: 0.3em 10px 0.3em 0;
+
+}
+a.thumbnail4 img{
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	_margin-top: 0px;
+	_margin-left: -38px;
+}
+a.thumbnail4,
+a.thumbnail4 img{
+	width: 260px;
+	height: 400px;
+}
+a.thumbnail4:hover {
+	border: none;
+	cursor: default;
+}
+a.thumbnail4:hover img {
+	width: auto;
+	height: auto;
+}

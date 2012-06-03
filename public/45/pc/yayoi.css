@@ -1,0 +1,80 @@
+
+/* 全体 */
+
+body{
+        background-image : url(bg-long.gif);
+        background-repeat: repeat;
+	background-attachment: fixed;
+
+        overflow-x:hidden; 
+        scrollbar-base-color:#fff;
+        scrollbar-face-color:#fff;
+        scrollbar-arrow-color:#f28;
+        scrollbar-highlight-color:#fff;
+        scrollbar-3dlight-color:#fff;
+        scrollbar-shadow-color:#fff;
+        scrollbar-darkshadow-color:#fff
+     }
+
+
+/* 構成 */
+div#main{ width: 450px; 
+	  text-align: right; 
+	  vertical-align: top; 
+	  margin: 0, 0, 0, 30px;
+	  padding: 0 }
+
+div.text{ width: 420px; 
+	  text-align: left; 
+	  vertical-align: top; 
+	  margin: 0 0 20px 20px;
+	  padding: 0 }
+
+
+/* リンク */
+a         {text-decoration:underline}
+a:link    {color:#333}
+a:visited {color:#333}
+a:hover   {color:#f28}
+a:active  {color:#f28}
+a:focus   {color:#f28}
+
+
+/* 見出し */
+h1 { color:       #f28;
+     font-size:   12pt;
+     font-weight: bold;
+     letter-spacing:0.5em
+   }
+
+
+/* 本文 */
+h2 { color:       #333;
+     font-size:   10pt;
+     font-weight: normal
+   }
+
+
+/* タイトル */
+h3 { width:450px; height:57px; padding-top:20px; padding-left:50px;  margin:0; 
+     color:#000; font-size:13pt; font-weight:bold; 
+     font-family: sans-serif; 
+     background:url("title.gif") no-repeat 0% 50%; 
+     text-align: left; 
+     word-spacing: 3px;
+     letter-spacing: 0.2em;
+   }
+
+
+/* 白抜き見出し */
+h4 { color:       #fff;
+     font-size:   10pt;
+     font-weight: bold
+   }
+
+
+/* 白抜き本文 */
+h5 { color:       #fff;
+     font-size:   10pt;
+     font-weight: normal
+   }
